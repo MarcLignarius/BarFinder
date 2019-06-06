@@ -12,12 +12,10 @@ $(document).ready(function() {
     let state = $('#state').val();
     $('#city').val("");
     $('#state').val("");
-    console.log("city" + city + " " + "state" + state);
     let barFinder = new BarFinder;
     let promise = barFinder.findBar(city, state);
     promise.then(function(response) {
       let body = JSON.parse(response);
-      console.log(body);
       if (body.length === 0)
       {
         $('#showBars').text(`There are no bars in ${city} ${state}.`)
