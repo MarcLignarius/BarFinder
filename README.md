@@ -13,10 +13,10 @@
 ## Specs
 | Behavior | Input | Output |
 | ------------- |:-------------:| -----:|
-| If user enters Portland as city and Oregon as state, the program returns a list of bars in Portland, Oregon | City: "Portland" / State: "Oregon" | ![ss1](https://i.imgur.com/2BM8Z1U.jpg) |
-| If user enters Portland as city and nothing as state, the program returns a list of bars in all cities named Portland | City: "Portland" / State: "" | ![ss2](https://i.imgur.com/SkXlFHP.jpg) |
-| If user enters nothing as city and Oregon as state, the program returns a list of bars in all of Oregon | City: "" / State: "Oregon" | ![ss3](https://i.imgur.com/HMPOKeO.jpg) |
-| If user enters a city or state that doesn't exist, the program returns an error message | City: "Portlad" / State: "Oregon" | ![ss4](https://i.imgur.com/QnHrHwo.jpg) |
+| If user enters Portland as city and Oregon as state, the program returns a list of bars in Portland, Oregon | City: "Portland" / State: "Oregon" | ![ss1](https://i.imgur.com/o4oMu5z.jpg) |
+| If user enters Portland as city and nothing as state, the program returns a list of bars in all cities named Portland | City: "Portland" / State: "" | ![ss2](https://i.imgur.com/x56YeGo.jpg) |
+| If user enters nothing as city and Oregon as state, the program returns a list of bars in all of Oregon | City: "" / State: "Oregon" | ![ss3](https://i.imgur.com/ZuTWfMx.jpg) |
+| If user enters a city or state that doesn't exist, the program returns an error message | City: "Portlad" / State: "Oregon" | ![ss4](https://i.imgur.com/3CwmHt1.jpg) |
 
 
 ## Installation and Setup
